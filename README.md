@@ -2,8 +2,8 @@
 
 **BookBot** - generate report of the word and letter counts from your book.
 
-Written in: Python
-Level: Beginner
+* Written in: Python  
+* Level: Beginner  
 
 ```sh
 	# Save your tome in the 'books' folder
@@ -14,3 +14,4 @@ Level: Beginner
     0
 	# Voilà!
 ```
+![Example output.](../image/example.png "Example output.")
